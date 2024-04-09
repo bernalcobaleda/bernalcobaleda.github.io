@@ -1,7 +1,8 @@
-
 ---
-layout: archive
-title: "Apoemas"
-permalink: /apoemas/
+permalink: /
+title: "apoemas"
 author_profile: true
+redirect_from: 
+  - /apoemas/
+  - /apoemas.html
 ---
