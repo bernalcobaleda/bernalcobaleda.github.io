@@ -10,7 +10,7 @@ main:
     url: /recetas/    
     
   - title: "Cancionarios"
-    url: /portfolio/
+    url: /cancionario/
         
   - title: "Favoritizar"
     url: /favorito/
