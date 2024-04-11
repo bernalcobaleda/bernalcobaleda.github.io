@@ -1,22 +1,23 @@
 # main links links
 main:
-  - title: "A-Poemas"
-    url: /apoemas/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Sueños"
-    url: /sueños/    
+  - title: "Talks"
+    url: /talks/    
 
-  - title: "Recetas"
-    url: /recetas/    
+  - title: "Teaching"
+    url: /teaching/    
     
-  - title: "Cancionarios"
-    url: /cancionario/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Favoritizar"
-    url: /favorito/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Guide"
+    url: /markdown/
+
