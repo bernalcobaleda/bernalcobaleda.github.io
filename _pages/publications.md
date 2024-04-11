@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Poemario"
-permalink: /pomeario/
+permalink: /poemario/
 author_profile: true
 ---
 
