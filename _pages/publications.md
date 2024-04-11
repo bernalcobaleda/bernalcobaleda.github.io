@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<h4>"azul"</h4>
-hola me llamo azul 
-y como azul pierdo frente al verde
-lo que el amarillo nunca pudo darme
+<h4>Azul</h4>
+<p>hola me llamo azul<br> 
+y como azul pierdo frente al verde<br>
+lo que el amarillo nunca pudo darme</p>
