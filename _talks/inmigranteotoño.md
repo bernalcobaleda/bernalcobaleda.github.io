@@ -1,16 +1,12 @@
-
 ---
 title: "Inmigrante en Otoño"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/inmigranteotoño
 venue: ""
 date: 2014
 location: "Hasselt"
 ---
-
-
-
 <p>
 No calientes a fuego lento<br>
 Que sólo arrebatado se puede eyacular<br>
