@@ -4,6 +4,9 @@ title: "Inmigrante en Otoño"
 collection: talks
 type: "Talk"
 permalink: /talks/inmigranteotoño
+venue: ""
+date: 2014
+location: "Hasselt"
 ---
 
 
