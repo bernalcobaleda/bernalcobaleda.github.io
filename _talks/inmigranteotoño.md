@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/inmigranteotoño
 venue: ""
-date: 
+date: 2024-01-01
 location: "Hasselt"
 ---
 <p>
