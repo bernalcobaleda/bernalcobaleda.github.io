@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "patito"
 collection: poemario
 permalink: /poemario/patito
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
