@@ -205,10 +205,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  poemario:
     output: true
     permalink: /:collection/:path/
-  talks:
+  sueños:
     output: true
     permalink: /:collection/:path/
 
