@@ -1,6 +1,13 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Sueños"
+permalink: /sueños/
 author_profile: true
 ---
+
+{% include base_path %}
+
+
+{% for post in site.sueños %}
+  {% include archive-single.html %}
+{% endfor %}
