@@ -1,7 +1,7 @@
 ---
 title: "Tu nombre"
 excerpt: ""
-collection: portfolio
+collection: poemario
 ---
 
 <p>Debo aclarar que Toulouse es mi gato.<br>
