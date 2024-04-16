@@ -1,7 +1,7 @@
 ---
 title: "Inmigrante en otoño"
 excerpt: ""
-collection: portfolio
+collection: poemario
 ---
 
 <p>
