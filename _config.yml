@@ -208,7 +208,7 @@ collections:
   poemario:
     output: true
     permalink: /:collection/:path/
-  sueños:
+  suenos:
     output: true
     permalink: /:collection/:path/
 
@@ -263,9 +263,9 @@ defaults:
   # _sueños
   - scope:
       path: ""
-      type: sueños
+      type: suenos
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
