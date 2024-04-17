@@ -1,4 +1,8 @@
-
+---
+title: "De salida"
+excerpt: ""
+collection: poemario
+---
 <p>Vida mía si supieras que perdí ese bus<br>
 que igual llevo esas nalgas en la retina<br>
 y el sabor a cebolla entre los dientes<br>
