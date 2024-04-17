@@ -13,16 +13,16 @@ Destruye mis ventanas y entra a robar<br>
 puertas abiertas son para mediocres<br>
 crudo es el centro vacío<br>
 arena levantada por las mulas en algún restaurante de carretera cerca al, 
-  <br>socorro</p>
+&nbsp;&nbsp;  <br>socorro</p>
 <p>
 Se encogen las hojas<br>
 se congelan los charcos<br>
 el viento azota las ventanas<br>
 uno cree que la neblina es linda pero no es
-  <br>La bumanguesa</p>
+&nbsp;&nbsp;  <br>La bumanguesa</p>
 <p>
 La ansiedad no se cura con besos<br>
-  tu muerte quema,<br>
+&nbsp;&nbsp;  tu muerte quema,<br>
 agarro el guadal, astillo mis rodillas<br>
 florece el pan en la nevera<br>
 rota es una casa sin vino</p>
@@ -61,7 +61,7 @@ pero no hay rey león ya</p>
 <p>
 le mira los ojos<br>
 y le mira la boca y no la quiere besar<br>
-...un poco<br>
+&nbsp;&nbsp;...un poco<br>
 puede ser,<br>
 come maní en exceso<br>
 piensa en volver,<br>
