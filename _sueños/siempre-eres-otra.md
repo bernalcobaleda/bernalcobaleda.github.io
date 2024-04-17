@@ -1,7 +1,7 @@
 ---
 title: "Siempre eres otra"
 excerpt: ""
-collection: sueños
+collection: suenos
 ---
 
 <p>
