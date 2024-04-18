@@ -23,8 +23,9 @@ He querido componerte una canción<br>
 de esas que rimen fácil<br>
 de las que ya he cantado antes:</p>
 
- _En un canal cerca al Mosa_ <br>
- _entre flores de amapola _ <br>
-_ Quisiera llevarte a ver golondrinas_ <br> 
-_que vuelen_ <br>
-_como si estuviesen borrachas de cielo_ 
+
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   _En un canal cerca al Mosa_ <br>
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _entre flores de amapola_ <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _Quisiera llevarte a ver golondrinas_ <br> 
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _que vuelen_ <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _como si estuviesen borrachas de cielo_ 
