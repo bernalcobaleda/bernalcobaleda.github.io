@@ -22,9 +22,9 @@ donde me bañé en invierno</p>
 He querido componerte una canción<br>
 de esas que rimen fácil<br>
 de las que ya he cantado antes:</p>
-<p>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; *En un canal cerca al Mosa*<br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; *entre flores de amapola*<br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; *Quisiera llevarte a ver golondrinas*<br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; *que vuelen*<br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; *como si estuviesen borrachas de cielo*</p>
+
+_<div style="text-align: center;" markdown="1"> En un canal cerca al Mosa </div>_
+_<div style="text-align: center;" markdown="1"> entre flores de amapola </div>_
+_<div style="text-align: center;" markdown="1"> Quisiera llevarte a ver golondrinas </div>_
+_<div style="text-align: center;" markdown="1"> que vuelen </div>_
+_<div style="text-align: center;" markdown="1"> como si estuviesen borrachas de cielo </div>_
