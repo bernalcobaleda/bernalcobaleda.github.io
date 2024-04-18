@@ -7,8 +7,8 @@ collection: poemario
 <p>
 Para mí era tan natural distinguir una palma de un cocotero.  
 Sorpresa mía cuando en el Uber, me preguntaste si aquel árbol que se doblaba podría llegar a dar cocos  
-                              Palmera de hojas espinosas  
-                              bastante más derecha que las demás  </p>
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Palmera de hojas espinosas  
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;                             bastante más derecha que las demás  </p>
 
 <p>
 - ¡No!
