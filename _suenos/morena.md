@@ -7,17 +7,17 @@ collection: suenos
 <p>
 Acabo de soñar con ella <br>
 &nbsp;&nbsp;&nbsp;Obvio<br>
-Por primera vez eh ? <br>
+Por primera vez ¿eh? <br>
 Y ya no recuerdo lo que fue<br>
 Recuerdo despertarme y decir<br>
-&nbsp;&nbsp;&nbsp;Ayyy la vi<br>
+&nbsp;&nbsp;&nbsp;¿Ay! la vi<br>
 La vi<br>
 &nbsp;&nbsp;&nbsp;¿La vi?<br>
   </p>
 <p>
-Recité una y ottra vez el sueño <br>
-Para no olvidatlo<br>
-Repetirlo como ovejas<br>
+Recité una y otra vez el sueño <br>
+Para no olvidarlo<br>
+lo repetí como ovejas<br>
 &nbsp;&nbsp;&nbsp;¡Claro!<br>
 ovejas<br>
   Hasta quedarme dormido <br>
