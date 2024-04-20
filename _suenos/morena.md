@@ -5,7 +5,7 @@ collection: suenos
 ---
 
 <p>
-Acabo de soñar Con ella <br>
+Acabo de soñar con ella <br>
 &nbsp;&nbsp;&nbsp;Obvio<br>
 Por primera vez eh ? <br>
 Y ya no recuerdo lo que fue<br>
