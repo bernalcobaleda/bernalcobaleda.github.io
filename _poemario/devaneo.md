@@ -3,7 +3,6 @@ title: "Devaneo"
 excerpt: ""
 collection: poemario
 ---
-
 <p>
 No fue sino que por primera vez me saludaras de beso para saber que tenía mejillas<br>
 ¡Ve!<br>
