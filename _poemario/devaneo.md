@@ -23,6 +23,8 @@ para poder, los dos, saciar el hambre<br>
 <p>
 habrá que enamorarse en otoño, <br>
 o habrá que volver,<br>
-  o quedarnos <br>
-donde todos sudamos con gusto bajo el mismo techo<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  o quedarnos <br>
+donde todos sudemos <br>
+  &nbsp;&nbsp;con gusto<br> 
+  bajo el mismo techo<br>
 </p>
