@@ -28,5 +28,5 @@ no me ...<br>
 &nbsp;&nbsp;&nbsp;Bueno, mañana tal vez sí<br>
 pero algún día <br>
 &nbsp;&nbsp;&nbsp;  alguna noche<br>
-Habrá que dejar de quedarse dormido <br>
+&nbsp;&nbsp;&nbsp;dormirnos <br>
 </p>
