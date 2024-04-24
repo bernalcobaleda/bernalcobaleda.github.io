@@ -12,7 +12,7 @@ es estar empalagado sin haber probado melao'
 abrir la ventana para fumarse dos plones, <br>
 pensando en necesitarlos <br>
 y quedar mareado con la urgencia de bañarte con agua fría<br> 
-  pero abres el agua caliente, porque no eres lo suficientemente arriesgado <br>
+  pero abres la caliente, porque no eres lo suficientemente arriesgado <br>
   para bañarte a esta temperatura<br>
   ¡Qué hace menos dos fuera!
 </p>
@@ -24,12 +24,12 @@ tendrán que hablar de holguras hasta las diez de la noche <br>
 para poder, los dos, saciar el hambre<br>
 </p>
 <p>
-habrá que enamorarse en otoño, <br>
-  depresivo,<br>
-  Para entrepiernarte entre las hojas<br>
-o habrá que volver,<br>
+¿Enamorarse en otoño? <br>
+  Depresivo,<br>
+  para entrepiernarte entre las hojas<br>
+o volver,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  o quedarnos <br>
-donde todos sudemos <br>
+donde sudemos <br>
   &nbsp;&nbsp;con gusto<br> 
   bajo el mismo techo<br>
 </p>
