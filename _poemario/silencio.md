@@ -32,7 +32,7 @@ Que mi perro favorito era el san bernardo, <br>
 o mi animal favorito el okapi <br>
  ¿o era el secretario?<br>
 ¿ Cuál habrá sido mi silencio favorito? <br>
-no sería el de semicorchea<br>
+no sería el de semicorchea<br></p>
 
  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   _Era el que hacía Jenny_ <br>
  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _en el garaje de la casa de su hermana_ <br>
