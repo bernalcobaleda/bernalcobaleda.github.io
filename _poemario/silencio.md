@@ -39,4 +39,4 @@ no sería el de semicorchea<br>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _mientras nos revoloteaban golondrinas_ <br> 
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _sobre la cabeza_ <br>
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _y tomábamos café y cerveza_ <br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _a sorbos de Marea_ </p>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _a sorbos de Marea_ 
