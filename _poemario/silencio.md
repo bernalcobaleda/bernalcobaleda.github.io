@@ -21,7 +21,7 @@ porque sé como se llaman y se ven, <br>
 ¡No! <br>
 Son las amapolas .<br>
 porque Chaouen les canta, <br>
-mhg<br>
+¡mhg!<br>
 puede ser que me gusten más las magnolias, <br>
 ¿Verdad?<br>
 </p>
@@ -33,6 +33,10 @@ o mi animal favorito el okapi <br>
  ¿o era el secretario?<br>
 ¿ Cuál habrá sido mi silencio favorito? <br>
 no sería el de semicorchea<br>
-Era el que hacía Jenny en el garaje de la casa de su hermana<br>
-mientras nos revoloteaban golondrinas sobre la cabeza<br>
-y tomábamos café a sorbos de Marea </p>
+
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   _Era el que hacía Jenny_ <br>
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _en el garaje de la casa de su hermana_ <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _mientras nos revoloteaban golondrinas_ <br> 
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _sobre la cabeza_ <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _y tomábamos café y cerveza_ <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  _a sorbos de Marea_ </p>
