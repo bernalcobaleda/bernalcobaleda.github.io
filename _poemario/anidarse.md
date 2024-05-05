@@ -21,7 +21,7 @@ Vaya a sentirme de menos  <br>
 Todo a su tiempo  <br>
 El miedo al despojo  <br>
 Caminatas a oscuras  <br>
-De día y entierros  <br>
+De días y entierros  <br>
 </p><p>
 Pecados a granel  <br>
 Traiciones ilusivas  <br>
