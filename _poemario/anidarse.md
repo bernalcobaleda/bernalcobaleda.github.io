@@ -27,7 +27,7 @@ Pecados a granel  <br>
 Traiciones ilusivas  <br>
 Flores sin comprar  <br>
 Plantas que no crecen  <br>
-Dame vida que te quiero  <br>
+Dame vida que te riego  <br>
 Dame un beso  <br>
 Fuerte al pecho  <br>
 </p><p>
@@ -62,10 +62,8 @@ Andemos descalzos  <br>
 Contemos las canas  <br>
 </p>
 
-<p>
  &nbsp;&nbsp; _El alma en el centro_ <br>
- &nbsp;&nbsp; _El hambre y el sueño_ 
-</p>
+ &nbsp;&nbsp; _El hambre y el sueño_ <br>
 
 <p>
 Y si los pájaros sostienen la tierra con las patas  <br>
