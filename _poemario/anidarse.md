@@ -41,13 +41,13 @@ Lejos o cerca  <br>
 Siempre gimiendo  <br>
 </p><p>
 Adiós en un hasta luego  <br>
-Duele menos Un aullido incierto  <br>
+Duele menos un aullido incierto  <br>
 Las babas en el fondo del vaso  <br>
 Las cenizas en los dedos  <br>
 </p><p>
-Temo al final  <br>
-Al borde  <br>
-llegué para regresar <br> 
+Me inquieta un final  <br>
+El borde  <br>
+Llegué para regresar <br> 
 Se acerca el silencio  <br>
 Eretismos internos  <br>
 </p><p>
