@@ -57,7 +57,7 @@ Cuéceme dentro  <br>
 Quiéreme inerte  <br>
 </p><p>
 Lee mi mano  <br>
-Se la gitana  <br>
+Sé la gitana  <br>
 Andemos descalzos  <br>
 Contemos las canas  <br>
 </p>
