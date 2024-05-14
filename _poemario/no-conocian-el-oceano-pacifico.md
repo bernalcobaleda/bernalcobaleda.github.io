@@ -18,7 +18,7 @@ Las palmas de cocos son diferentes.  </p>
 - No lo sé.  </p>
 <p>
 Cinco días pasamos junto al océano pacífico,   <br>
-ninguna de las palmas que me preguntaste eran de coco .  <br>
+ninguna de las palmas que me preguntaste era de coco .  <br>
 Empiezo a creer que no recuerdo como son   <br>
 empiezo a enloquecer   <br>
 Ya soñé que te respondía una y mil veces que no... </p> 
