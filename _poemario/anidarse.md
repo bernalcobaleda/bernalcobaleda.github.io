@@ -40,8 +40,8 @@ De irnos sintiendo  <br>
 Lejos o cerca  <br>
 Siempre irritables  <br>
 </p><p>
-Adiós en un hasta luego  <br>
-Duele menos un aullido incierto  <br>
+Duele menos <br>
+Un aullido incierto  <br>
 Las babas en el fondo del vaso  <br>
 Las cenizas en los dedos  <br>
 </p><p>
