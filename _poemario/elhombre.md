@@ -1,24 +1,24 @@
+---
+title: "El hombre dentro del traje de la mascota"
+excerpt: ""
+collection: poemario
+---
 
+El hombre dentro del traje de la mascota  </br>
+Cuando posa para que se tomen fotos con él  </br>
 
+¿Sonríe por dentro?  </br>
 
+El acto reflejo de estar frente a una cámara obturando  </br>
 
+El conocimiento de la expresión de aquella máscara de peluche  </br>
 
-El hombre dentro del traje de la mascota  
+El dolor en el pecho  </br>
 
-Cuando posa para que se tomen fotos con él  
+El olor interno  </br>
 
-¿Sonríe por dentro?  
+la felicidad de la gente  </br>
 
-El acto reflejo de estar frente a una cámara obturando  
+la cara de los niños </br> 
 
-El conocimiento de la expresión de aquella máscara de peluche  
-
-El dolor en el pecho  
-
-El olor interno  
-
-la felicidad de la gente  
-
-la cara de los niños  
-
-¿Por qué no pueden hablar y respondernos? 
+¿Por qué no pueden hablar y respondernos? </br>
