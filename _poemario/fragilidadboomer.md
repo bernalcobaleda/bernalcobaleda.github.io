@@ -21,8 +21,8 @@ Que hasta aquel sexo lo he rechazado <br>
 Dar ¿eh? <br>
 Recibir jamás <br>
 Un machito nunca debe permitir <br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 	por nadie que le vaya a contar a sus amigas <br>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 		o a sus amigos<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;por nadie que le vaya a contar a sus amigas <br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;o a sus amigos<br>
 Pero dar, un machito si pudiera dar <br>
 </p>
 	<p>
