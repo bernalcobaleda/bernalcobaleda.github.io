@@ -1,5 +1,5 @@
 ---
-title: "Fragilidad "boomer" "
+title: "Fragilidad _"boomer"_ "
 excerpt: ""
 collection: poemario
 ---
