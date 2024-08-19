@@ -1,5 +1,5 @@
 ---
-title: "De salida"
+title: "Carta II"
 excerpt: ""
 collection: poemario
 ---
@@ -18,6 +18,6 @@ Algo menos cliché... <br>  </p>
 Una casita con bicicletas  <br> 
 Una con patines  <br> 
 Una casita de callejuelas europeas <br>  
-Y bueno  <br> 
+&nbsp;&nbsp;&nbsp; Y bueno  <br> 
 Una esquinera junto a la mía  <br> 
 Con el número 102 <br> </p>
