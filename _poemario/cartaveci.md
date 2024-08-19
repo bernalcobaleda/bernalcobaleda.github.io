@@ -13,11 +13,11 @@ En la siguiente ¿la esperanza?  <br>
 ¡Nah! <br> 
 Eh... <br> 
 Tal vez algo mejor  <br> 
-Algo menos cliché... <br>  
+Algo menos cliché... <br>  </p>
 <p> 
 Una casita con bicicletas  <br> 
 Una con patines  <br> 
 Una casita de callejuelas europeas <br>  
 Y bueno  <br> 
 Una esquinera junto a la mía  <br> 
-Con el número 102 <br> 
+Con el número 102 <br> </p>
