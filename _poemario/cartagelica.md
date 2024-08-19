@@ -5,7 +5,7 @@ collection: poemario
 ---
 
 
-
+_A Gélica, a la más hermana de todas las hermanas_
 <p>La canción dice: cuando te nombro, no dice que la "a" y la "n" son mudas
 </p>
 <p>Obviamente no me acuerdo como llegó,<br>
