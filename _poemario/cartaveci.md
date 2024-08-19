@@ -4,6 +4,8 @@ excerpt: ""
 collection: poemario
 ---
 
+<p> A mi vecina, a Mariana </p>
+
 <p> Y si por mi fuera <br> 
 Construiría en mi pecho un pintoresco vecindario  <br> 
 De casitas pequeñas  <br> 
