@@ -4,20 +4,20 @@ excerpt: ""
 collection: poemario
 ---
 
-Y si por mi fuera  
-Construiría en mi pecho un pintoresco vecindario  
-De casitas pequeñas  
-En una alojaría un sueño  
-En otra, tal vez, el hambre de patacón  
-En la siguiente ¿la esperanza?  
-¡Nah! 
-Eh... 
-Tal vez algo mejor  
-Algo menos cliché...  
-
-Una casita con bicicletas  
-Una con patines  
-Una casita de callejuelas europeas  
-Y bueno  
-Una esquinera junto a la mía  
-Con el número 102 
+<p> Y si por mi fuera <br> 
+Construiría en mi pecho un pintoresco vecindario  <br> 
+De casitas pequeñas  <br> 
+En una alojaría un sueño  <br> 
+En otra, tal vez, el hambre de patacón  <br> 
+En la siguiente ¿la esperanza?  <br> 
+¡Nah! <br> 
+Eh... <br> 
+Tal vez algo mejor  <br> 
+Algo menos cliché... <br>  
+<p> 
+Una casita con bicicletas  <br> 
+Una con patines  <br> 
+Una casita de callejuelas europeas <br>  
+Y bueno  <br> 
+Una esquinera junto a la mía  <br> 
+Con el número 102 <br> 
