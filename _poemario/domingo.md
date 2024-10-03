@@ -11,7 +11,7 @@ Como vicio de cada domingo  <br>
 </p>
 <p>
 La creencia de la impotencia importante  <br>
-Del sueño del bello no facial  <br>
+Del sueño del vello no facial  <br>
 De la barba apenas áspera  <br>
 </p>
 <p>
