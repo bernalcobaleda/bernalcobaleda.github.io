@@ -15,11 +15,11 @@ Del sueño del bello no facial  <br>
 De la barba apenas áspera  <br>
 </p>
 <p>
-Fuego consúmeme pronto  <br>
+Consúmeme pronto  <br>
 Que no  <br>
 Aún más  <br>
 No más  <br>
-Los otoños que aguanto  <br>
+Los vientos que aguanto  <br>
 </p>
 <p>
 Murió el ruido  <br>
