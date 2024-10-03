@@ -3,7 +3,6 @@ title: "De regreso"
 excerpt: ""
 collection: suenos
 ---
-&nbsp;&nbsp;&nbsp;
 <p>
 Quisiera creer que todos los sueños tienen algún significado <br>
 Pero paso todo el tiempo <br> 
