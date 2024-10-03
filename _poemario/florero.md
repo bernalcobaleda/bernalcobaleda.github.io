@@ -1,11 +1,19 @@
-El vecino tiene tres floreros
-Uno (me/te) maulla a ratos
+---
+title: "Floreros"
+excerpt: ""
+collection: poemario
+---
 
-Hay veces que el florero
-es la mamá del otro florero
-
-Bueno, 
-
-El vecino tiene cuatro floreros
-Siempre puestos 
-de a tres en tres
+<p>
+El vecino tiene tres floreros<br>
+Uno (me/te) maulla a ratos<br>
+</p><p>
+Hay veces que el florero<br>
+Es la mamá del otro florero<br>
+</p><p>
+Bueno <br>
+</p><p>
+El vecino tiene cuatro floreros<br>
+Siempre puestos <br>
+De a tres en tres<br>
+</p>
