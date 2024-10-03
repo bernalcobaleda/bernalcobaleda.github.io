@@ -3,31 +3,31 @@ title: "De regreso"
 excerpt: ""
 collection: suenos
 ---
-
+&nbsp;&nbsp;&nbsp;
 <p>
-Quisiera creer que todos los sueños tienen algún significado  
-Pero paso todo el tiempo  
-Solo  
-Juntos pensando, 
-Pasamos pensando,
-Cuánto tiempo,  
-sí el tiempo,  
-cuánto nos tomará,
-¡Entonces!  
-Cruzar el primer puente,  
-Para seguir corriendo 
-Y devolvernos por el siguiente  
+Quisiera creer que todos los sueños tienen algún significado <br>
+Pero paso todo el tiempo <br> 
+Solo  <br>
+Juntos pensando,<br> 
+Pasamos pensando,<br>
+Cuánto tiempo,  <br>
+sí el tiempo,  <br>
+cuánto nos tomará,<br>
+¡Entonces!  <br>
+Cruzar el primer puente,<br>  
+Para seguir corriendo <br>
+Y devolvernos por el siguiente<br>  
 </p>
 <p>
-Y quisiera creer que cuando se cae el cielo de la iglesia  
-En llamas  
-Y los perros caminan  
-Ciegos  
-Junto a mi  
-Tiene algún significado  
-Que no sea  
-Simplemente  
-Que no pudimos cruzar el puente  
-Del camino de regreso 
+Y quisiera creer que cuando se cae el cielo de la iglesia<br>  
+En llamas  <br>
+Y los perros caminan<br>  
+Ciegos  <br>
+Junto a mi  <br>
+Tiene algún significado<br>  
+Que no sea  <br>
+Simplemente  <br>
+Que no pudimos cruzar el puente<br>  
+Del camino de regreso <br>
 </p>
  
