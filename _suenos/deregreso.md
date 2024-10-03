@@ -7,13 +7,13 @@ collection: suenos
 Quisiera creer que todos los sueños tienen algún significado <br>
 Pero paso todo el tiempo <br> 
 Solo  <br>
-Juntos pensando,<br> 
-Pasamos pensando,<br>
-Cuánto tiempo,  <br>
-Sí el tiempo,  <br>
-Cuánto nos tomará,<br>
+Juntos pensando<br> 
+Pasamos pensando<br>
+Cuánto tiempo  <br>
+Sí el tiempo  <br>
+Cuánto nos tomará<br>
 ¡Entonces!  <br>
-Cruzar el primer puente,<br>  
+Cruzar el primer puente<br>  
 Para seguir corriendo <br>
 Y devolvernos por el siguiente<br>  
 </p>
