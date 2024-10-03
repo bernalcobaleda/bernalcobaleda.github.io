@@ -11,8 +11,8 @@ Solo  <br>
 Juntos pensando,<br> 
 Pasamos pensando,<br>
 Cuánto tiempo,  <br>
-sí el tiempo,  <br>
-cuánto nos tomará,<br>
+Sí el tiempo,  <br>
+Cuánto nos tomará,<br>
 ¡Entonces!  <br>
 Cruzar el primer puente,<br>  
 Para seguir corriendo <br>
