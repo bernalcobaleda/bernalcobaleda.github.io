@@ -1,24 +1,35 @@
-Yo no soy lo que escribo  
-La obra/obrero siempre separada del artista  
-¿El Artista?  
-La ansiedad y la pena  
-La que muerde el estómago  
+---
+title: "Seguimos siendo"
+excerpt: ""
+collection: poemario
+---
 
-Juntos  
-frente al espejo  
-De la distopia  
-La dismorfia  
-cansancio de oírse así mismo  
-en notas de voz relatando los sueños  
-
-Lo primero que aprendimos de los animales  
-fue a bailar  
-No te va a salvar  
-El deseo caníbal  
-De la extinción  
-
-Abdominal rustico  
-Ereje  
-Erecto  
-Sí son monólogos  
-Sí es egocentrismo  
+<p>
+Yo no soy lo que escribo  <br>
+La obra/obrero siempre separada del artista  <br>
+¿El Artista?  <br>
+La ansiedad y la pena<br>  
+La que muerde el estómago <br> 
+</p>
+  <p>
+Juntos  <br>
+frente al espejo<br>  
+De la distopia  <br>
+La dismorfia  <br>
+cansancio de oírse así mismo<br>  
+en notas de voz relatando los sueños<br>  
+</p>
+  <p>
+Lo primero que aprendimos de los animales<br>  
+fue a bailar  <br>
+No te va a salvar <br> 
+El deseo caníbal  <br>
+De la extinción  <br>
+</p>
+  <p>
+Abdominal rustico  <br>
+Ereje  <br>
+Erecto  <br>
+Sí son monólogos <br> 
+Sí es egocentrismo  <br>
+</p>
