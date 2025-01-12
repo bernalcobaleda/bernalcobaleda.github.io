@@ -4,22 +4,22 @@ excerpt: ""
 collection: poemario
 ---
 <p>
-Hay un campo de girasoles  
-No sé si se puede acceder  
-Es cerca a la vía del bus  
+Hay un campo de girasoles  <br>
+No sé si se puede acceder  <br>
+Es cerca a la vía del bus  <br>
 </p><p>
-Siempre  
-En horario de lo usual  
-Se ven achilados, como cabizbajos  
-Hay que mirar a la izquierda  
-	antes del puente que separa la vida del trabajo  
-Los municipios del poder adquisitivo  
+Siempre  <br>
+En horario de lo usual <br> 
+Se ven achilados, como cabizbajos <br> 
+Hay que mirar a la izquierda  <br>
+&nbsp;&nbsp;	antes del puente que separa la vida del trabajo <br> 
+Los municipios del poder adquisitivo  <br>
 </p><p>
-Debo planear visitarlos  
-Saber la fecha en que están más grandes  
-Y meterme al monte  
-Solo para verlos levantar la cabeza  
-El ateo de tu jardín del edén  
-	quiere seguir cantando, subiendo las escaleras 
+Debo planear visitarlos  <br>
+Saber la fecha en que están más grandes <br> 
+Y meterme al monte  <br>
+Sólo para verlos levantar la cabeza <br> 
+El ateo de tu jardín del edén  <br>
+&nbsp;&nbsp;	quiere seguir cantando, subiendo las escaleras <br>
 </p>
  
