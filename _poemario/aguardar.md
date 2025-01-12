@@ -1,3 +1,9 @@
+---
+title: "Aguardar"
+excerpt: ""
+collection: poemario
+---
+<p>
 Yo no soy lo que escribo  
 La obra/obrero siempre separada del artista  
 ¿El Artista?  
@@ -11,7 +17,7 @@ Cansancio de oírse así mismo
 En notas de voz relatando los sueños  
 Lo primero que aprendimos de los animales  
 Fue a bailar  
-
+</p><p>
 No te va a salvar  
 El deseo caníbal  
 De la extinción  
@@ -28,12 +34,11 @@ A verla mejorarse
 y dejar de estar asustada  
 A describir mis experiencias de forma jocosa  
 darle al otro la seguridad  
- 
-
+</p><p>
 No es tan grave...  
 ¿Y qué cuando sí lo sea?  
 Y al medírmela resulte diminuta frente a la tuya  
 Y deba asumir que estas mal y yo sano  
 ¿Qué ego queda en este momento?  
-
+</p>
 El cielo oscuro 
