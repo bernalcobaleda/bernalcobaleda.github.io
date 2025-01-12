@@ -18,7 +18,7 @@ Atrapadas en las paredes de mi casa <br>
 El agua se fundió con la arena  <br>
 </p><p>
 Y hay  <br>
-Si  <br>
+Sí  <br>
 Hay partículas de agua <br> 
 Que nunca volverán a ser mar <br> 
 No serán una planta  <br>
