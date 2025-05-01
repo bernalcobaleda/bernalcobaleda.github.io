@@ -33,8 +33,8 @@ un correr del cielo,<br>
 Un beso del infierno<br>
 </p><p>
 Soy viejo y objeto del capitalismo<br>
-No he logrado abusar de una mujer,<br>
-Falto al respeto a la deconstrucción,<br>
+No he abusado de una mujer,<br>
+Falté al respeto a la deconstrucción,<br>
 Y ni siquiera terminé de construirme<br>
 </p><p>
 Que pausa tan larga<br>
