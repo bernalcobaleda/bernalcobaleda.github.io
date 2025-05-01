@@ -1,36 +1,42 @@
-Soy un cuerpo desbordado
-Por el desgarro de las astillas
-que se han clavado en mis dedos.
-Una cucaracha que vuela de mis cortinas
-a pegarse sobre el cuerpo.
-
-El destrozo del espíritu,
-La decadencia del desorden,
-La estigmatización del conocimiento.
-Soy un resultado 
-maquillado por la inteligencia artificial.
-
-Somos lo que odiamos
-porque tenemos hambre.
-Somos el perro callejero,
-un perro que ya ni se ve en las calles,
-La "callejería" del sueño
-en el hogar.
-
-No aprendimos a bailar,
-Aprendimos a cortejar,
-A ser desnudos.
-
-Soy un cuerpo amorfo, no simétrico,
-no redondo,
-un correr del cielo,
-Un beso del infierno.
-
-Soy viejo y objeto del capitalismo.
-No he logrado abusar de una mujer,
-Falto al respeto a la deconstrucción,
-Y ni siquiera terminé de construirme.
-
-Que pausa tan larga
- ha durado cinco años
-
+---
+title: "Pausa Activa"
+excerpt: ""
+collection: poemario
+---
+<p>
+Soy un cuerpo desbordado <br>
+Por el desgarro de las astillas<br>
+que se han clavado en mis dedos.<br>
+Una cucaracha que vuela de mis cortinas<br>
+a pegarse sobre el cuerpo.<br>
+</p><p>
+El destrozo del espíritu,<br>
+La decadencia del desorden,<br>
+La estigmatización del conocimiento.<br>
+Soy un resultado <br>
+maquillado por la inteligencia artificial.<br>
+</p><p>
+Somos lo que odiamos<br>
+porque tenemos hambre.<br>
+Somos el perro callejero,<br>
+un perro que ya ni se ve en las calles,<br>
+La "callejería" del sueño<br>
+en el hogar.<br>
+</p><p>
+No aprendimos a bailar,<br>
+Aprendimos a cortejar,<br>
+A ser desnudos.<br>
+</p><p>
+Soy un cuerpo amorfo, no simétrico,<br>
+no redondo,<br>
+un correr del cielo,<br>
+Un beso del infierno.<br>
+</p><p>
+Soy viejo y objeto del capitalismo.<br>
+No he logrado abusar de una mujer,<br>
+Falto al respeto a la deconstrucción,<br>
+Y ni siquiera terminé de construirme.<br>
+</p><p>
+Que pausa tan larga<br>
+ ha durado cinco años<br>
+</p>
