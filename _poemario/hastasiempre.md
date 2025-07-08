@@ -14,7 +14,7 @@ se recupera<br>
 y se es<br>
 ligero<br>
 al dejar de depender de la suerte.<br>
-Tal vez la señal<br>
+Asumir la señal<br>
 fue<br>
 que nunca pude escribir algo<br>
 sobre ti<br>
