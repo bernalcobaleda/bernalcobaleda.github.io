@@ -4,19 +4,19 @@ excerpt: ""
 collection: poemario
 ---
 <p>
-Voy a decirte adiós
-¿Por qué no?
-si todo al final
-es efímero
-o etéreo.
-De alguna mordida de perro
-se recupera
-y se es
-ligero
-al dejar de depender de la suerte.
-Tal vez la señal
-fue
-que nunca pude escribir algo
-sobre ti
-de lo que me sintiera particularmente enamorado.
+Voy a decirte adiós <br>
+¿Por qué no?<br>
+si todo al final<br>
+es efímero<br>
+o etéreo.<br>
+De alguna mordida de perro<br>
+se recupera<br>
+y se es<br>
+ligero<br>
+al dejar de depender de la suerte.<br>
+Tal vez la señal<br>
+fue<br>
+que nunca pude escribir algo<br>
+sobre ti<br>
+de lo que me sintiera particularmente enamorado.<br>
 </p>
