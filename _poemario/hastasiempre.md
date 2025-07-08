@@ -1,5 +1,11 @@
+---
+title: "Despedida I"
+excerpt: ""
+collection: poemario
+---
+<p>
 Voy a decirte adiós
-porque no,
+¿Por qué no?
 si todo al final
 es efímero
 o etéreo.
@@ -13,3 +19,4 @@ fue
 que nunca pude escribir algo
 sobre ti
 de lo que me sintiera particularmente enamorado.
+</p>
