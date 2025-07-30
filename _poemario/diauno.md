@@ -1,3 +1,9 @@
+---
+title: "Día uno del tiempo"
+excerpt: ""
+collection: poemario
+---
+
 <p>He borrado el contacto que no guardo en mi memoria. <br>  
 Se ha ido la información de respaldo también. <br>  
 Silenciar fue el paso siguiente.</p>
