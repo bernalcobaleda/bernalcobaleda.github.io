@@ -1,3 +1,9 @@
+---
+title: "Despedida II"
+excerpt: ""
+collection: poemario
+---
+
 <p>
 No dejé que se comiera la placenta<br>
 y volví al útero de hierro<br>
