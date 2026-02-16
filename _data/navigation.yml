@@ -9,8 +9,8 @@ main:
   - title: "Recetas"
     url: /recetas/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Cuentos"
+    url: /cuentos/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
