@@ -1,3 +1,9 @@
+---
+title: "Chakras"
+excerpt: ""
+collection: cuentos
+---
+
 Sustenté con tu foto en mi bolsillo, una de esas fotos de impresora de juguete tipo Barbie. Me gusta porque las imprime con adhesivo por detrás; me da la facilidad de pegarla donde yo quiera, como por ejemplo en la banca donde varias veces almorcé en la universidad, esa que da al castillo. Mirarás fijamente ese castillo desde esa foto con mirada sin interés; lo harás hasta que el clima borre tu cara, o  hasta que seas limpiada por el personal de aseo de la facultad.
 
 Ya quemé todos mis recursos literarios para recuperarte e inmortalizar mi patetismo; es la última opción que me quedó. Terminado este pequeño y, repito, patético ritual, redacté un correo dando las indicaciones necesarias para que pudieras cogerme un poco más de fastidio y rechazo. Creo que el autosabotaje es esa arma que tenemos los seres a los que nos cuelgan los genitales para hacernos odiar. Como si dentro de nosotros mismos tuviéramos ese placer por el fracaso amoroso y solo los que lo ignoran fueran exitosos. Bueno, exitosos en traicionar y dejar a sus crías con una paupérrima manutención, pero exitosos en todo caso.
