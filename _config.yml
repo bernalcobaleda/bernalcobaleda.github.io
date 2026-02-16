@@ -211,7 +211,9 @@ collections:
   suenos:
     output: true
     permalink: /:collection/:path/
-
+  cuentos:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -268,6 +270,15 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  # _cuentos
+  - scope:
+      path: ""
+      type: cuentos
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      
 
 
 # Sass/SCSS
