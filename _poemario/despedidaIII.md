@@ -7,7 +7,7 @@ collection: poemario
 <br> Hay palabras que se ignoran.
 <br>  Hay las que he ignorado
 <br>  por placer
-<br>Cuando la cabeza recuerda..
+<br>Cuando la cabeza recuerda...
 <br>mi mayor miedo es que las palabras
 <br>donde te encontré, al escribirlas
 <br>  al leerlas
